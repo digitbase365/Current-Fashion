@@ -1,2 +1,2 @@
 # Curent-Fashion
-Fashion Biz Landing Page
+Fashion BIz Landing Page
